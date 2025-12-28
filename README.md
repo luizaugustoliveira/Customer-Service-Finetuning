@@ -66,7 +66,7 @@ pip install transformers datasets evaluate
 pip install huggingface_hub
 ```
 
-## 🚀 Usage
+## Usage
 
 ### 1. Load the Fine-tuned Model
 
