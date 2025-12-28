@@ -172,7 +172,7 @@ The model achieves exceptional performance:
 6. **Evaluation**: Assess performance on held-out test set
 7. **Deployment**: Save locally and push to Hugging Face Hub
 
-## 🔗 Links
+## Links
 
 - **Hugging Face Model**: [luizaugustoliveira/bert-customer-service-test](https://huggingface.co/luizaugustoliveira/bert-customer-service-test)
 - **Base Model**: [bert-base-uncased](https://huggingface.co/bert-base-uncased)
