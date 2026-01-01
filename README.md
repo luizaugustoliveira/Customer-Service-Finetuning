@@ -172,6 +172,16 @@ The model achieves exceptional performance:
 6. **Evaluation**: Assess performance on held-out test set
 7. **Deployment**: Save locally and push to Hugging Face Hub
 
+## Technologies Used
+
+- **Python 3.7+** - Main programming language
+- **PyTorch** - Deep learning framework for model training
+- **Hugging Face Transformers** - Library for BERT models and tokenization
+- **Datasets** - Hugging Face library for data manipulation
+- **Jupyter Notebook** - Interactive development environment
+- **BERT (bert-base-uncased)** - Pre-trained model for text classification
+- **Hugging Face Hub** - Platform for model sharing
+
 ## Links
 
 - **Hugging Face Model**: [luizaugustoliveira/bert-customer-service-test](https://huggingface.co/luizaugustoliveira/bert-customer-service-test)
